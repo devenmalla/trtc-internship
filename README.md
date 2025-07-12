@@ -1,1 +1,1 @@
-# TRTC_Internship
+# TRTC Internship
